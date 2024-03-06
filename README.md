@@ -5,14 +5,13 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshburri&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshburri" /> </p>
 
-### About me
+## About me
 - 🌍  I'm based in India
 - 🧠  I’m currently learning <b>Full Stack Web Development, Python, DBMS...</b>
 -  🤝  I'm open to collaborating on Intresting projects
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -24,7 +23,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 </p>
 
-### Connect with me
+## Connect with me
 <p align="left">
 <a href="https://instagram.com/ganeshvarma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ganeshvarma._" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ganeshburri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeshburri" height="30" width="40" /></a>
@@ -32,11 +31,10 @@
 </p>
 
 ---
-<b>My GitHub Stats:</b>
+## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ganeshburri&theme=github-dark&hide_border=false&date_format=j%20M%5B%20Y%5D)
-
-### Stats(Only public):
 ![Stats](https://github-readme-stats.vercel.app/api?username=ganeshburri&show_icons=true&hide_border=false&theme=blue-green&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ganeshburri&theme=github-dark&hide_border=false)<br/>
 
 ---
