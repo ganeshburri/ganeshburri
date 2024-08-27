@@ -9,7 +9,7 @@
 ## About me
 - 🌍  I'm based in India
 - 🧠  I’m currently learning <b>Full Stack Web Development ...</b>
--  🤝  I'm open to collaborating on Intresting projects
+-  🤝  I'm open to collaborating on Interesting projects
 
 ## Skills
 
